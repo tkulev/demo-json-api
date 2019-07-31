@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+         "id": 1, 
+         "title": "Post 1",
+         "authorId": 1
+    },
+    {
+         "id": 2, 
+         "title": "Post 2",
+         "authorId": 1
+    },
+    {
+         "id": 3, 
+         "title": "Post 3",
+         "authorId": 1
+    },
+    {
+         "id": 4, 
+         "title": "Post 4",
+         "authorId": 2
+    },
+    {
+         "id": 5, 
+         "title": "Post 5",
+         "authorId": 3
+    },
+  ],
+  "comments": [
+    { 
+        "id": 1, 
+        "body": "some comment", 
+        "postId": 1 
+    },
+    { 
+        "id": 2, 
+        "body": "some comment", 
+        "postId": 1 
+    }
+  ],
+  "authors": [
+    {
+        "id": 1,
+        "name": "Author 1", 
+        "contactInfo": {
+            "email": "asd@test.com".
+            "phone": "+323412423423"
+        }
+    }, 
+    {
+        "id": 2,
+        "name": "Author 2",
+        "contactInfo": {
+            "email": "asd2@test.com".
+            "phone": "+234412423423"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Author 3",
+        "contactInfo": {
+            "email": "asd2@test.com".
+            "phone": "+12313412423423"
+        }
+    }
+  ]
+}
