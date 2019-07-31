@@ -43,7 +43,7 @@
         "id": 1,
         "name": "Author 1", 
         "contactInfo": {
-            "email": "asd@test.com".
+            "email": "asd@test.com",
             "phone": "+323412423423"
         }
     }, 
@@ -51,7 +51,7 @@
         "id": 2,
         "name": "Author 2",
         "contactInfo": {
-            "email": "asd2@test.com".
+            "email": "asd2@test.com",
             "phone": "+234412423423"
         }
     },
@@ -59,7 +59,7 @@
         "id": 2,
         "name": "Author 3",
         "contactInfo": {
-            "email": "asd2@test.com".
+            "email": "asd2@test.com",
             "phone": "+12313412423423"
         }
     }
